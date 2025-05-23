@@ -5,7 +5,7 @@ import compare from "./templates/compare";
 
 export default createEodash({
     id: "demo",
-    stacEndpoint: "https://esa-eodashboards.github.io/eodashboard-catalog/trilateral/catalog.json",
+    stacEndpoint: "https://eoxhub-workspaces.github.io/public-catalog/catalog/catalog.json",
     brand: {
       name: "Dashboard",
       font: {
